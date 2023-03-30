@@ -1,1 +1,1 @@
-# didatico.redimen
+# Redimencionado
